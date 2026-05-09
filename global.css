@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* Figma Variables */
+
+  /* Spacing */
+  --Container-container-large: 1280px;
+  --Max-Width-max-width-large: 768px;
+  --Page-Padding-padding-global: 64px;
+  --Radius-Large: 8px;
+  --Radius-Medium: 8px;
+  --Section-Padding-padding-section-large: 112px;
+  --Section-Padding-padding-section-medium: 80px;
+  --Stroke-Border-Width: 1px;
+  --Text-Sizes-Heading-1: 84px;
+  --Text-Sizes-Heading-2: 60px;
+  --Text-Sizes-Heading-3: 48px;
+  --Text-Sizes-Heading-4: 40px;
+  --Text-Sizes-Heading-5: 32px;
+  --Text-Sizes-Heading-6: 26px;
+  --Text-Sizes-Text-Large: 26px;
+  --Text-Sizes-Text-Medium: 20px;
+  --Text-Sizes-Text-Regular: 18px;
+  --Text-Sizes-Text-Small: 16px;
+  --Text-Sizes-Text-Tiny: 12px;
+
+  /* Color */
+  --Color-Flush-Orange: #ff7900;
+  --Color-Neutral-Darkest: #000;
+  --Color-White: #fff;
+  --Opacity-Neutral-Darkest-15: rgba(0, 0, 0, 0.15);
+  --Opacity-Transparent: rgba(255, 255, 255, 0);
+  --Opacity-White-20: rgba(255, 255, 255, 0.2);
+  --Opacity-White-60: rgba(255, 255, 255, 0.6);
+
+  /* Common Style Variables */
+}
